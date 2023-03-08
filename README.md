@@ -1,6 +1,4 @@
-# Symfony webapp test environment
-
-Symfony Demo Application
+Symfony webapp test environment
 ========================
 
 
